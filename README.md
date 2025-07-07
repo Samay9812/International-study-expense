@@ -2,6 +2,10 @@ Medium Blog Link
 https://medium.com/@samayj705/from-lockdown-curiosity-to-data-driven-living-my-journey-into-analytics-663ab5e66ec3
 
 
+Note on Privacy
+
+⚠️ Some details in the dashboard (including specific values) have been intentionally hidden or anonymised to protect personal and financial privacy. The core structure, logic, and visualisations remain representative of the real data.
+
 **Personal Finance Dashboard (Power BI)**
 
 This project is a Power BI dashboard designed to track and manage my personal finances as an international student in Australia. It captures key spending and earning metrics over a 2-year period, helping me understand financial patterns and make better budgeting decisions.
@@ -45,6 +49,8 @@ Total Spend by category:
 3. Line Chart 2: Monthly earnings trend
 
 4. KPI Cards for quick insight into total spend, income, and balance
+   
+5. Forecast Line: Projection of future spending based on historical behavior
 
 🧹 Data Preparation
 - Data was cleaned and transformed using Power Query
