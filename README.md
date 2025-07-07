@@ -2,7 +2,8 @@ Medium Blog Link
 https://medium.com/@samayj705/from-lockdown-curiosity-to-data-driven-living-my-journey-into-analytics-663ab5e66ec3
 
 
-Personal Finance Dashboard (Power BI)
+**Personal Finance Dashboard (Power BI)**
+
 This project is a Power BI dashboard designed to track and manage my personal finances as an international student in Australia. It captures key spending and earning metrics over a 2-year period, helping me understand financial patterns and make better budgeting decisions.
 
 📊 Purpose
